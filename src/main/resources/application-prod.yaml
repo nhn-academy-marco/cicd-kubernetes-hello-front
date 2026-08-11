@@ -3,3 +3,6 @@ server:
 
 spring.cloud.kubernetes.discovery:
   enabled: true
+
+gateway:
+  base_url: http://infra-gateway

@@ -1,2 +1,5 @@
 server:
   port: 9000
+
+gateway:
+  base_url: http://localhost:8000
